@@ -13,6 +13,7 @@ body, .navbar {
 }
 .circle {
     margin: 1em;
+    padding: 0;
     width: 105px;
     height:105px;
     border: .5em solid white;
