@@ -1,6 +1,6 @@
 body, .navbar {
     font-family:'Abel', sans-serif;
-    background-color: #e6e6e6;
+    background-color: #f0f0f0;
 }
 .anton-font {
     font-family: 'Anton', sans-serif;
@@ -38,4 +38,19 @@ body, .navbar {
     display: table-cell;
     vertical-align: middle;
 
+}
+.card-img-top{
+    border: 3px solid #e6e6e6 ;
+}
+.tiny-circle{
+    height: 18px;
+    width: 18px;
+    border-radius: 100%;
+    color: black;
+    margin: 1px;
+    display: table;
+}
+.tiny-circle li{
+    display: table-cell;
+    vertical-align: middle;
 }
