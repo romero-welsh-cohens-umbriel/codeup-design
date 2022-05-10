@@ -1,3 +1,40 @@
-body {
-    font-family: 'Anton', 'Abel', sans-serif;
+body, .navbar {
+    font-family:'Abel', sans-serif;
+    background-color: #e6e6e6;
+}
+.anton-font {
+    font-family: 'Anton', sans-serif;
+}
+.anton-font h1 {
+    font-size: 3.5em;
+}
+.anton-font h2 {
+    font-size: 2.2em;
+}
+.circle {
+    margin: 1em;
+    width: 105px;
+    height:105px;
+    border: .5em solid white;
+    border-radius: 100%;
+    color: white;
+    display: table;
+
+}
+.red-circle{
+    background-color: #e6563b;
+}
+.orange-circle{
+    background-color: #eb9d3a;
+}
+.green-circle {
+    background-color: #7cb06c;
+}
+.blue-circle{
+    background-color: #00aba9;
+  }
+.circle p {
+    display: table-cell;
+    vertical-align: middle;
+
 }
