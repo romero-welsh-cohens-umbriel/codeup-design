@@ -66,3 +66,10 @@ body, .navbar {
 .page-divide {
     border: 3px solid #e6e6e6;
 }
+.small-img {
+    height: 85px;
+    width: 85px;
+}
+p {
+    /*font-weight: bold;*/
+}
