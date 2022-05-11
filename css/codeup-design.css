@@ -52,8 +52,15 @@ body, .navbar {
     display: inline-block;
     font-family: 'Anton', 'Abel', sans-serif;
     font-size: 12px;
+
 }
 
 .card {
     padding:0;
+}
+.same-bg {
+    background-color: #f0f0f0
+}
+.page-divide {
+    border: 3px solid #e6e6e6;
 }
